@@ -11,3 +11,8 @@ Packages required:
 - matplotlib
 - cartopy
 - ibicus
+
+To look at the notebooks online we recommend nbviewer:
+
+- [01_debiasing](https://nbviewer.org/github/jakobwes/State-of-Wildfires---Bias-Adjustment/blob/main/01_debiasing.ipynb)
+- [02_evaluation](https://nbviewer.org/github/jakobwes/State-of-Wildfires---Bias-Adjustment/blob/main/02_evaluation.ipynb)
